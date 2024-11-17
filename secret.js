@@ -1,0 +1,1 @@
+window.PROTECTED_PASSWORD = '27/02/2022';
